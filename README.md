@@ -4,16 +4,18 @@
    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
     <title>birthday invitation</title>
+    <style>
+    </style>
    <style>
     body {
       font-family: 'Segoe UI', sans-serif;
       background: #4682B4;
-      color: #f8f9fa;
+       color: #f8f9fa;      
     }
     header {
       text-align: center;
       padding: 40px 20px;
-      color: #fcd34d;      
+      color: #fcd34d;        
     }
     header h1 {
       font-size: 43.2px;
@@ -36,7 +38,7 @@
     h2 {
       color: #fcd34d;
       margin-bottom: 10px;
-      font-size: 24px;  
+      font-size: 24px;    
       letter-spacing: 1px;
     }   
     p, li {
@@ -53,7 +55,7 @@
       border-radius: 10px;
       margin-bottom: 15px;
       border: 2px solid #fcd34d;
-      box-shadow: 0 0 10px ;     
+      box-shadow: 0 0 10px ; 
     }  
     footer {
       text-align: center;
@@ -62,7 +64,9 @@
       padding: 25px;
       border-top: 1px solid 
       font-size: 1px;
-    }    
+    }
+
+    
   </style>
 </head>
 <body>
